@@ -84,13 +84,18 @@ Examines how the number of campaign contacts relates to customer conversion perf
 
 Explores customer age patterns to understand differences in subscription conversion behavior.
 
-### Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Marketing Funnel Dashboard](Marketing_Funnel_Dashboard.png)
 
 ### Tableau Workbook
 
-[📥 Download Tableau Packaged Workbook (.twbx)](Marketing_Funnel_Dashboard.twbx)
+[📥 Download Tableau Packaged Workbook (.twbx)](Marketing_Funnel_Conversion_Analysis.twbx)
+
+### Dataset
+
+[📥 Download Bank Marketing Dataset](bank-full-clean.csv)
+
 
 > The dashboard preview and workbook links will work after the corresponding files are uploaded to this repository using the filenames shown above.
 
@@ -121,12 +126,11 @@ FUTURE_DS_03/
 │
 ├── README.md
 │
-├── Marketing_Funnel_Dashboard.twbx
+├── bank-full-clean.csv
 │
-├── Marketing_Funnel_Dashboard.png
+├── Marketing_Funnel_Conversion_Analysis.twbx
 │
-└── Dataset/
-    └── bank-full-clean.csv
+└── Marketing_Funnel_Dashboard.png
 ```
 
 ## 📌 Conclusion
