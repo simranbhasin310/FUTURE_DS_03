@@ -79,7 +79,13 @@ Successful Subscriptions ÷ Total Contacts × 100
 
 ![Marketing Funnel Dashboard](Marketing_Funnel_Dashboard.png)
 
-**Tableau Workbook:** [View / Download Workbook](Marketing_Funnel_Conversion_Analysis.twbx)
+### Tableau Workbook
+
+[📥 Download Tableau Packaged Workbook (.twbx)](Marketing_Funnel_Conversion_Analysis.twbx)
+
+### Dataset
+
+[📥 Download Bank Marketing Dataset](bank-full-clean.csv)
 
 ---
 
