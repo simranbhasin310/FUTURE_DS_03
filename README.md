@@ -96,9 +96,6 @@ Explores customer age patterns to understand differences in subscription convers
 
 [📥 Download Bank Marketing Dataset](bank-full-clean.csv)
 
-
-> The dashboard preview and workbook links will work after the corresponding files are uploaded to this repository using the filenames shown above.
-
 ## 💡 Key Business Insights
 
 - The overall subscription conversion rate is approximately 11.70%.
@@ -142,12 +139,17 @@ Through this analysis, businesses can make informed decisions, optimize communic
 
 **Simran Bhasin**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/simranbhasin310/)
+Aspiring Data Analyst | Data Science & Analytics Enthusiast
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simranbhasin310@gmail.com)
+Connect with me:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/simranbhasin310/SimranBhasin310.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simranbhasin310/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/simranbhasin310/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:simranbhasin310@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome)](https://github.com/simranbhasin310/SimranBhasin310.github.io)
 
 ---
 
