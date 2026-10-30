@@ -192,17 +192,15 @@ The Tableau dashboard presents key marketing KPIs and visual insights in a struc
 
 <div align="center">
 
-### **Simran Bhasin**
+### Simran Bhasin
 
 **Aspiring Data Analyst | Data Science & Analytics Enthusiast**
 
-Passionate about transforming raw data into meaningful insights through data analysis, visualization, and storytelling.
+Passionate about data analysis, visualization, and transforming raw data into meaningful business insights.
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/simranbhasin310)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simranbhasin310)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simranbhasin310/)
 
 </div>
 
@@ -210,15 +208,12 @@ Passionate about transforming raw data into meaningful insights through data ana
 
 <div align="center">
 
-### ✨ Future Interns – Data Science & Analytics Internship
+**Future Interns | Data Science & Analytics Internship**
 
-**Task 3: Marketing Funnel & Conversion Performance Analysis**
+*Task 3 – Marketing Funnel & Conversion Performance Analysis*
 
-*Turning Data into Insights. Insights into Better Decisions.*
+⭐ If you found this project useful, consider giving the repository a star!
 
-⭐ If you found this project useful, consider giving this repository a star!
-
-### Thank You for Visiting! 💙
+**Thank You for Visiting! 💙**
 
 </div>
-
