@@ -192,7 +192,7 @@ The Tableau dashboard presents key marketing KPIs and visual insights in a struc
 
 <div align="center">
 
-### Simran Bhasin
+### **Simran Bhasin**
 
 **Aspiring Data Analyst | Data Science & Analytics Enthusiast**
 
