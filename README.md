@@ -121,17 +121,12 @@ Explores customer age patterns to understand differences in subscription convers
 
 ## 📁 Project Structure
 
-```text
 FUTURE_DS_03/
 │
 ├── README.md
-│
 ├── bank-full-clean.csv
-│
 ├── Marketing_Funnel_Conversion_Analysis.twbx
-│
 └── Marketing_Funnel_Dashboard.png
-```
 
 ## 📌 Conclusion
 
@@ -147,7 +142,8 @@ Through this analysis, businesses can make informed decisions, optimize communic
 
 **Simran Bhasin**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/simranbhasin310/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/simranbhasin310/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simranbhasin310@gmail.com)
 
