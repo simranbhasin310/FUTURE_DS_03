@@ -140,8 +140,6 @@ FUTURE_DS_03/
 ├── bank-full-clean.csv
 ├── Marketing_Funnel_Conversion_Analysis.twbx
 └── Marketing_Funnel_Dashboard.png
-```
-
 ---
 
 ## 📌 Project Deliverables
@@ -170,16 +168,17 @@ These insights can help businesses make informed decisions, improve customer tar
 Aspiring Data Analyst | Data Science & Analytics Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simranbhasin310/)
-
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simranbhasin310@gmail.com)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/simranbhasin310/SimranBhasin310.github.io)
 
 ---
 
 ⭐ If you found this project useful, feel free to star this repository!
+
+**Thank you for visiting my project!**
+
+---
 
 **Thank you for visiting my project!**
 
