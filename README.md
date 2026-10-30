@@ -135,7 +135,21 @@ Through this analysis, businesses can make informed decisions, optimize communic
 
 ---
 
+## 👤 Author
 
+**Simran Bhasin**
+
+Aspiring Data Analyst | Data Science & Analytics Enthusiast
+
+Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simranbhasin310/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/simranbhasin310/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:simranbhasin310@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome)](https://github.com/simranbhasin310/SimranBhasin310.github.io)
 
 ---
 
