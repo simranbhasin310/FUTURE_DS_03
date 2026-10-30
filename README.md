@@ -196,11 +196,15 @@ The Tableau dashboard presents key marketing KPIs and visual insights in a struc
 
 **Aspiring Data Analyst | Data Science & Analytics Enthusiast**
 
-Passionate about data analysis, visualization, and transforming raw data into meaningful business insights.
+Passionate about data analysis, data visualization, and transforming raw data into meaningful business insights.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/simranbhasin310)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simranbhasin310/)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simranbhasin310)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranbhasin310/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Projects-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-portfolio-ten-alpha-98.vercel.app)
 
 </div>
 
